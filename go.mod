@@ -1,4 +1,4 @@
-module github.com/jiajie99/openwehchat
+module github.com/jiajie99/openwechat
 
 go 1.20
 
